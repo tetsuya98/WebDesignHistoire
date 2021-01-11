@@ -1,4 +1,4 @@
-##Histoire du WebDesign
+# Histoire du WebDesign
 
 Ce sites présente une veille technologique sur l'histoire du Web Design.
 Vous pourrez y retrouver l'ensemble de nos sources et y naviguer pour en apprendre plus sur le Web Design.
